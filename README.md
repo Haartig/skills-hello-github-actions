@@ -1,4 +1,5 @@
 <header>
+![image](https://github.com/Haartig/skills-hello-github-actions/assets/101516634/e5d6f28d-0f85-4053-bd5b-1749378a5e9f)
 
 <!--
   <<< Author notes: Course header >>>
